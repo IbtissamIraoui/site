@@ -1,0 +1,6 @@
+{
+  "name": "monprojet",
+  "scripts": {
+    "start": "cd site-client && npm start"
+  }
+}
