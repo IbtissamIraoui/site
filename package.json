@@ -1,6 +1,5 @@
 {
-  "name": "monprojet",
   "scripts": {
-    "start": "cd site-client && npm start"
+    "start": "npx serve site-client -l $PORT"
   }
 }
